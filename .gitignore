@@ -19,7 +19,6 @@
 .env.development.local
 .env.test.local
 .env.production.local
-ifaz-s-products-firebase-adminsdk-ygtku-cb72c71ecd.json
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
